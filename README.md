@@ -5,7 +5,9 @@
 <a href="https://www.twitter.com/ErickDKnight" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ErickDKnight?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
-<span align="right"> <a href="https://www.github.com/ErickMontesDK" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/erickdknight" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/montesbederick" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></span>
+<span align="right"> <a href="https://www.github.com/ErickMontesDK" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/erickdknight" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/montesbederick" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="mailto:erickmontesdk@gmail.com" target="_blank" rel="noreferrer"><img src="https://juandelanuza.org/adventure/images/u5050.png" width="32" height="32" /></a>
+</span>
 
 ## About me
 I studied Mechanical Engineering at the "Insituto Tecnológico de Morelia". After I graduated, I found "web develop" as a interesting way of living-work
