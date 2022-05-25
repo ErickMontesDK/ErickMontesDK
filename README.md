@@ -10,7 +10,7 @@ src="https://img.shields.io/twitter/follow/ErickDKnight?logo=twitter&style=for-t
 </span>
 
 ## About me
-I studied Mechanical Engineering at the "Insituto Tecnológico de Morelia". After I graduated, I found "web develop" as a interesting way of living-work
+I studied Mechanical Engineering at the "Instituto Tecnológico de Morelia". After I graduated, I found "web develop" as a interesting way of living-work
 
 >* Introverted guy / Geek&Nerd 4life :no_mouth::sunglasses:
 >* I'm living in Morelia, Michoacán
