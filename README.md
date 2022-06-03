@@ -8,10 +8,13 @@ src="https://img.shields.io/twitter/follow/ErickDKnight?logo=twitter&style=for-t
 <span align="right">
   <a href="http://www.instagram.com/erickdknight" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
+  <a href="mailto:erickmontesdk@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://www.seekpng.com/png/full/154-1545314_portfolio-icon-sales.png" width="35" height="35" /></a>
   <a href="https://www.linkedin.com/in/montesbederick" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="mailto:erickmontesdk@gmail.com" target="_blank" rel="noreferrer">
-  <img src="https://juandelanuza.org/adventure/images/u5050.png" width="32" height="32" /></a>
+  <a href="mailto:erickmontesdk@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://juandelanuza.org/adventure/images/u5050.png" width="32" height="32" /></a>
+  
 </span>
 
 ## About me
