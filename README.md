@@ -1,6 +1,6 @@
 # I'm Erick Montes 🦇
 
-## Full Stack Developer | Javascript & Typescript | React/Angular/Vue</i>
+## Full Stack Developer | Javascript, Python & Typescript | Django, Vue</i>
 <hr>
 <b>Hello there,</b>
 Design is my passion. Since I was a child, I love to shape my ideas and make them real. Although I didn’t start in this field, when I discovered it I knew it was my thing. I am a person with a lot of desire to learn; every day I discover something new and want to know more. I consider myself creative and trust my logical ability. Also, I like new challenges and solve problems with innovative and functional solutions. My goal is to create memorable and satisfying user experiences that add value to the world.
