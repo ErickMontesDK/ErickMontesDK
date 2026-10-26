@@ -4,24 +4,25 @@
 
 I build web apps end to end, from the database and REST API to the interface people actually use. I came to software from mechanical engineering, so I like problems that mix design, logic and real users.
 
-- 💼 1+ year as a remote web developer at **Epochteca** (Mexico): billing integrations with the MercadoLibre and Shopify APIs, a medical appointment platform for clinics, and UI workflows in Figma, mostly with Django.
-- 🚚 Built **EchoRoute**, a field-visit tracking platform that a company uses in production.
-- 🎓 Studying the **Full Stack Web Development diploma at CCTB** in Vancouver.
-- 🏆 1st place at the **Hack the Ocean** hackathon (Microsoft / Innovacción Virtual).
+- 💼 **Full Stack Developer at Epochteca** (Sep 2023 – Dec 2024), hired full time after my internship: Shopify, Stripe and PayPal integrations in Django for a CFDI billing platform, webhooks for product sync, and a patient management panel for clinics.
+- 🚚 Built **EchoRoute**, a GPS-validated logistics platform used daily by a real business (40+ field visits a day).
+- 🌎 Trained at **Jalasoft** in an international Agile team (Angular, TypeScript, Node.js, Docker).
+- 🎓 Studying the **Full Stack Web Development diploma at CCTB**, Vancouver.
+- 🏆 1st place at the **Hack the Ocean** hackathon (Microsoft Launch X).
 - 🔎 **Open to co-op, internship and junior roles**, remote or in Vancouver / Toronto.
 
-**[Portfolio](http://erickmontesdk.cv/)** · **[LinkedIn](https://www.linkedin.com/in/erickmontesbed)** · **[Email](mailto:erickmontesdk@gmail.com)**
+**[Portfolio](http://erickmontesdk.cv/)** · **[LinkedIn](https://www.linkedin.com/in/erickmontesbed)** · **[Email](mailto:erickmontes.dev@gmail.com)**
 
 ---
 
 ## Featured projects
 
 ### 🚚 EchoRoute · in production
-Field operations platform for a delivery company. Drivers scan a client's QR code at each stop, the app records the visit with GPS and validates the distance to the client, and admins follow routes on a live map and dashboard, with Excel exports.
-`React` `TypeScript` `Django REST Framework` `PostgreSQL` `JWT` `Leaflet` · [Frontend](https://github.com/ErickMontesDK/EchoRoute_FrontEnd) · [Backend](https://github.com/ErickMontesDK/EchoRoute_BackEnd) · [Live](https://echoroute-wine.vercel.app/)
+Replaces a small distribution business's Excel tracking with a digital workflow. Drivers scan a client's QR code at each stop, the visit is validated with GPS and timestamp, and admins follow routes on a live map and dashboard. It once flagged a visit marked complete in a physically impossible time window.
+`React` `TypeScript` `Django REST Framework` `Supabase` `Leaflet` `Docker` · 37 API endpoints · [Frontend](https://github.com/ErickMontesDK/EchoRoute_FrontEnd) · [Backend](https://github.com/ErickMontesDK/EchoRoute_BackEnd) · [Live](https://echoroute-wine.vercel.app/)
 
-### 🎬 Opus Cinemas v2 · in progress
-Movie theater booking app: TMDB listings, a real-time seat map over WebSockets, Stripe checkout (test mode) and PDF tickets with a QR code sent by email. A production-style rebuild of my school project.
+### 🎬 Opus Cinemas · v2 in progress
+Cinema booking system. v1 (team of 3) is vanilla JS + Supabase with concurrency controls so two people can't book the same seat. v2 is a production-style rebuild: TMDB listings, a real-time seat map over WebSockets, Stripe checkout (test mode) and PDF tickets with QR codes.
 `Next.js` `TypeScript` `Tailwind` `Django` `Django Channels` `Celery` `Redis` `PostgreSQL` `Docker` · [Repo](https://github.com/ErickMontesDK/opus-cinemas-v2) · [v1 live](https://opuscinemas.netlify.app/)
 
 ### 🧊 3D Portfolio
@@ -41,6 +42,8 @@ Endangered ocean species on an interactive world map, built by our team in 24 ho
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -55,16 +58,18 @@ Endangered ocean species on an interactive world map, built by our team in 24 ho
 ![DRF](https://img.shields.io/badge/Django_REST-A30000?style=flat&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe_API-635BFF?style=flat&logo=stripe&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify_API-7AB55C?style=flat&logo=shopify&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 
 **DevOps & tools**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_EC2-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_(EC2,_Lambda)-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white)
 
