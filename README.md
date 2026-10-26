@@ -9,7 +9,7 @@ I build web apps end to end, from the database and REST API to the interface peo
 - 🌎 Trained at **Jalasoft** in an international Agile team (Angular, TypeScript, Node.js, Docker).
 - 🎓 Studying the **Full Stack Web Development diploma at CCTB**, Vancouver.
 - 🏆 1st place at the **Hack the Ocean** hackathon (Microsoft Launch X).
-- 🔎 **Open to co-op, internship and junior roles**, remote or in Vancouver / Toronto.
+- 🔎 **Open to co-op, internship and junior roles**, remote or in any Canadian city.
 
 **[Portfolio](http://erickmontesdk.cv/)** · **[LinkedIn](https://www.linkedin.com/in/erickmontesbed)** · **[Email](mailto:erickmontes.dev@gmail.com)**
 
