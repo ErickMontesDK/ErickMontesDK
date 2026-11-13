@@ -1,4 +1,4 @@
-# Hi, I'm Erick Montes 👋
+# Hi, I'm Erick Montes 👋🦇
 
 **Full Stack Developer · React, TypeScript, Python & Django · Vancouver, BC 🇨🇦**
 
